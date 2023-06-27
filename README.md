@@ -1,3 +1,3 @@
-# Non Communicable Disease A Demo App
+# Non Communicable Diseases, a Demo App
 
 Learning Gits
